@@ -1,7 +1,6 @@
 # Calculadora_Basica
 
-.
-> [!INFORMACION_DEL_ESTUDIANTE]
+> [!NOTE]
 > **Jose Roberto Gonzalez Ramirez | 29-0432-2025.**
 
 ## Evidencia
