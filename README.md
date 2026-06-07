@@ -2,6 +2,8 @@
 
 <span style="color: blue; font-weight: bold;">Jose Roberto Gonzalez Ramirez | 29-0432-2025</span>
 <span style="color: green;">**Este texto es verde y negrita**</span>
+> [!NOTE]
+> Esto es una nota importante en **negrita** con borde azul.
 
 ## Evidencia
 
