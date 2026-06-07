@@ -1,6 +1,6 @@
 # Calculadora_Basica
 
-> <span style="color: blue; font-weight: bold;">Jose Roberto Gonzalez Ramirez | 29-0432-2025</span>
+<span style="color: blue; font-weight: bold;">Jose Roberto Gonzalez Ramirez | 29-0432-2025</span>
 
 ## Evidencia
 
